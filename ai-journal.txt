@@ -1,1 +1,7 @@
+AI Usage Journal
+Karl Capili
+kcapili@terpmail.umd.edu
+INST326 Section 0301
 
+Week 1
+This week, I used AI, specifically ChatGPT, to refresh me on topics from INST126 to help with the weekly exercises. I specifically asked for refreshers on f-strings, inputs, .find, .rfind, and what no branching meant. Besides that, I have not used AI too much, except for help with changing the repo visibility in GitHub since it is my first time using it. AI on Google also helped me find information on The Hobbit as a book example in the exercises. Here is my AI chat link: https://chatgpt.com/share/68c5c9d1-0c64-8013-8383-e9c8f37d44da
