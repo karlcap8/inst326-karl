@@ -5,3 +5,7 @@ INST326 Section 0301
 
 Week 1
 This week, I used AI, specifically ChatGPT, to refresh me on topics from INST126 to help with the weekly exercises. I specifically asked for refreshers on f-strings, inputs, .find, .rfind, and what no branching meant. Besides that, I have not used AI too much, except for help with changing the repo visibility in GitHub since it is my first time using it. AI on Google also helped me find information on The Hobbit as a book example in the exercises. Here is my AI chat link: https://chatgpt.com/share/68c5c9d1-0c64-8013-8383-e9c8f37d44da
+
+Week 2
+This week, I used ChatGPT to help my team complete the Team Charter. I copied and pasted the rubric into AI and asked it to put it in question form to help us fulfill the requirements in a direct question form. Here is that AI chat link: https://chatgpt.com/share/68ce061d-87b0-8013-a133-922f8aff6213/
+Besides that, I used AI to refresh me on loops and using range() and len() in loops, similar to last week. I am curious about trying out Claude AI too since it seems it can search through my Google Drive to pull documents instead of pasting them. 
