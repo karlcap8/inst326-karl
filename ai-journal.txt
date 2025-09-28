@@ -9,3 +9,6 @@ This week, I used AI, specifically ChatGPT, to refresh me on topics from INST126
 Week 2
 This week, I used ChatGPT to help my team complete the Team Charter. I copied and pasted the rubric into AI and asked it to put it in question form to help us fulfill the requirements in a direct question form. Here is that AI chat link: https://chatgpt.com/share/68ce061d-87b0-8013-a133-922f8aff6213/
 Besides that, I used AI to refresh me on loops and using range() and len() in loops, similar to last week. I am curious about trying out Claude AI too since it seems it can search through my Google Drive to pull documents instead of pasting them. 
+
+Week 3
+In week 3, I used ChatGPT to help me further grasp enumerate() in loops. Also, I had to use AI a bit more this week than last week to help me walk through the logic, as it felt repetitive, and I had to make sure I was getting it right. Here is a chat link: https://chatgpt.com/share/68d9aa49-388c-8013-b2b5-5f6ced3624f3
