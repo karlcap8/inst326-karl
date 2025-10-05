@@ -12,3 +12,6 @@ Besides that, I used AI to refresh me on loops and using range() and len() in lo
 
 Week 3
 In week 3, I used ChatGPT to help me further grasp enumerate() in loops. Also, I had to use AI a bit more this week than last week to help me walk through the logic, as it felt repetitive, and I had to make sure I was getting it right. Here is a chat link: https://chatgpt.com/share/68d9aa49-388c-8013-b2b5-5f6ced3624f3
+
+Week 4
+In week 4, I used ChatGPT to help me with GitHub. These are things I could have found online, but I prompted ChatGPT to help set up the new repo for our first project. Also, I was unsure of how to create a new folder instead of just a new file, so it showed me that I just need to add a "/" at the end to make it into a folder. Here is the link to the chat: https://chatgpt.com/share/68e2a25b-1f5c-8013-b20a-9ed1e53363d8
