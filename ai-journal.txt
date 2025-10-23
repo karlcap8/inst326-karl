@@ -18,3 +18,6 @@ In week 4, I used ChatGPT to help me with GitHub. These are things I could have 
 
 Week 5
 In week 5, I signed up for the free Gemini student account, but have yet to really use or test it for this class. As for Project 1, I used ChatGPT to help me with GitHub formatting of .md files, such as readme.md files. I was mainly unsure how to use markdown to separate information and code nicely. Here is a chat link:  https://chatgpt.com/share/68eb142a-9dcc-8013-80a8-73e40517b93a
+
+Week 6
+In week 6, I tried something new with summarizing the lecture file to reapply what was learned in a different way. It was helpful to have it explained to me by a chatbot as well. In addition to that, I had asked ChatGPT to re-explain some topics, such as @classmethod, as a refresher before completing the weekly exercises. Here is the chat link: https://chatgpt.com/share/68f9a2ac-6c50-8013-a2d5-6ea5b37f01bb
