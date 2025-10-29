@@ -21,3 +21,6 @@ In week 5, I signed up for the free Gemini student account, but have yet to real
 
 Week 6
 In week 6, I tried something new with summarizing the lecture file to reapply what was learned in a different way. It was helpful to have it explained to me by a chatbot as well. In addition to that, I had asked ChatGPT to re-explain some topics, such as @classmethod, as a refresher before completing the weekly exercises. Here is the chat link: https://chatgpt.com/share/68f9a2ac-6c50-8013-a2d5-6ea5b37f01bb
+
+Week 7
+In week 7, I primarily used AI to help connect Project 1 with Project 2. I feel like the project 2 instructions were already written pretty well, but I like it being reiterated through AI. So, I downloaded a PDF of the assignment details and asked ChatGPT to explain it to me, especially how it connects to project 1. I then chose to do a Dataset class and asked AI how it can be approached. Overall, it was pretty helpful. Here is the chat link: https://chatgpt.com/share/6902a9a7-3534-8013-a30d-b06d38b09988
