@@ -24,3 +24,6 @@ In week 6, I tried something new with summarizing the lecture file to reapply wh
 
 Week 7
 In week 7, I primarily used AI to help connect Project 1 with Project 2. I feel like the project 2 instructions were already written pretty well, but I like it being reiterated through AI. So, I downloaded a PDF of the assignment details and asked ChatGPT to explain it to me, especially how it connects to project 1. I then chose to do a Dataset class and asked AI how it can be approached. Overall, it was pretty helpful. Here is the chat link: https://chatgpt.com/share/6902a9a7-3534-8013-a30d-b06d38b09988
+
+Week 8
+In week 8, I wanted to get a head start on Project 3. For the most part, I am planning on just getting a headstart on understanding what has to be done. I don't think I will get started on it fully this week at least. So, I used AI to summarize the lengthy instructions for this project. Fortunately, the professor also provided an explanation, which helped. I fed those two sources of information into ChatGPT to summarize them. Its output was a bit hard to read at first, so I asked it to put it as a step-by-step to-do checklist. This made it a lot easier to digest what has to be done, especially when I revisit it soon. Here is the chat link: https://chatgpt.com/share/69096599-a4dc-8013-82dc-30c541c37bb1
