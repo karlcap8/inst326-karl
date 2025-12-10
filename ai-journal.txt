@@ -36,3 +36,6 @@ In week 10, my group has already made decent progress on Project 3. Fortunately,
 
 Week 12
 In week 12, the week after Thanksgiving break, I actually really didn't use AI that much for this class this week. I mainly referenced back from the chat in Week 10, as my group is beginning to work on Project 4. So, my AI use this week was primarily reading back to the chat from week 10 to review requirements for Project 4 again. Here is the AI chat link again: https://chatgpt.com/share/691bede0-4ec4-8013-a3ae-41e7f2e5f8f8.
+
+Week 13
+In week 13, I used AI primarily to work out an issue with GitHub and VSCode. However, it was a pretty quick fix, and I just used a temporary chat to resolve my issue. So, unfortunately, I do not have the chat link. However, it did resolve my issue in order to complete Project 4.
